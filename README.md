@@ -1,7 +1,7 @@
 # depthcharge-guide
 Guide for booting Linux on x86_64 Chromebooks without modifying firmware.
 
-# [START HERE](https://github.com/eupnea-linux-backup/depthcharge-guide/wiki/Preamble)
+# [START HERE](https://github.com/eupnea-linux-backup/depthcharge-guide/wiki/Home)
 
 # Contributors:
 * [Gentoo wiki](https://wiki.gentoo.org/wiki/Creating_bootable_media_for_depthcharge_based_devices) (Original guide)
