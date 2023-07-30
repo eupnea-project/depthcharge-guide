@@ -8,4 +8,4 @@ Guide for booting Linux on x86_64 Chromebooks without modifying firmware.
 * [MilkyDeveloper](https://github.com/MilkyDeveloper) (Source code for this guide)
 * [Apacelus](https://github.com/Apacelus) (Main author)
 * [Emprario](https://github.com/Emprario)
-* [dragon.comp](https://github.com/enter-dragon)
+* [dragon.comp](https://github.com/enter-dragon) (see [issue#1](https://github.com/eupnea-linux-backup/depthcharge-guide/issues/1))
